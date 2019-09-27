@@ -1,0 +1,33 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.finchain.com.hk
+title: FinChain Limited
+email: junk@finchain.com.hk
+author: FinChain Limited
+description: > # "Write an awesome description for your new site here. 
+  FinChain Limited is registered in Hong Kong, a Finance and Blockchain combined company, provides Blockchain design and Financial implementation.
+copyright: 'Copyright &copy; 2019 FinChain Limited. All Rights Reserved.'
+#credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: linkedin
+    url: 
+  - title: twitter
+    url: https://twitter.com/zdailynews
+  - title: github
+    url: https://github.com/finchain
+
